@@ -1,7 +1,6 @@
-## Who am I
+### About me
 
-I am a student at El Camino College studying Computer Information Systems, trying to get into the field of cybersecurity.
-I speak Japanese and English fluently.
+I am a Japanese student at El Camino College studying Computer Information Systems, trying to get into the field of cybersecurity.
 
 I am a member of a CTF team [CyberSpace](https://ctftime.org/team/116280/), but I play CTF on my own as well ([kiyotakaakaiwa](https://ctftime.org/team/181501)).
 
